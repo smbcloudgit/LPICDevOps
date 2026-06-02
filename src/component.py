@@ -1,0 +1,1 @@
+print("thuisis a component")
